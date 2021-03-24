@@ -8,13 +8,13 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libngspice,
-        "bin/libngspice-0.dll",
+        "bin\\libngspice-0.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_executable_product(
         ngspice,
-        "bin/ngspice.exe",
+        "bin\\ngspice.exe",
     )
 
     JLLWrappers.@generate_init_footer()
