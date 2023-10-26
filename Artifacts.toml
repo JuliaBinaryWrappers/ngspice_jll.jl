@@ -1,143 +1,143 @@
 [[ngspice]]
 arch = "aarch64"
-git-tree-sha1 = "230dd5b74b1d34c149e34b613fee24b8e5e81419"
+git-tree-sha1 = "fb77fb1af1a3733d8bd27e734f6e2e8e5c24bc4f"
 os = "macos"
 
     [[ngspice.download]]
-    sha256 = "be38c3fcb97eb7d67933622a0e6e6c907b7171f1663e07c72684cdf4d51aa955"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "2966942bab87e019a48bc9b40f843b1063bd4231f2fbc958dcddf7caafd31cc6"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.aarch64-apple-darwin.tar.gz"
 [[ngspice]]
 arch = "aarch64"
-git-tree-sha1 = "fc3f7e2e889d94488e5084f09c9df1fba5a8e77d"
+git-tree-sha1 = "db4e4965c17e0c5e1841d3195ba196ed1fc6dfa2"
 libc = "glibc"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "670efa3fc290a209e562c85ed7561cde4ac8533bc69a5b8414bf525948d8355c"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "ab7713f45ed9d93593ad308a87bdf1ebf8252865554e966d5e3f90a75e183829"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.aarch64-linux-gnu.tar.gz"
 [[ngspice]]
 arch = "aarch64"
-git-tree-sha1 = "aa1991ceaa424513bfb1185482c5c4fce71b37fb"
+git-tree-sha1 = "f1b0b13084ce43e5ccf09f24505e0c740a8ab331"
 libc = "musl"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "2e272c847b73c51a89c42bb67e14ea3bdb2607165c4adab7194ec33bf4dbc75f"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.aarch64-linux-musl.tar.gz"
+    sha256 = "8e5bd8c43c16bc39df95772c5844ec129b919e8486288ce85ee38f16be795f87"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.aarch64-linux-musl.tar.gz"
 [[ngspice]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9cedcd086a2fcc11e813e797f7049bc384f8a524"
+git-tree-sha1 = "7098ec035d685c0d4f375cf42b68f6f724ef8c43"
 libc = "glibc"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "8f5a694c6032b9e5372e3d94103493e95a9e0b145cf8988ee6c2a8ec34f24fb2"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "d541074ee71b2c6421ae55401f71cfd283b982f4d13cca9a8e09949d1134d898"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.armv6l-linux-gnueabihf.tar.gz"
 [[ngspice]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7fe80e143995ac161ea07eee8d874a9d777174e0"
+git-tree-sha1 = "abf2bf435e2b42db319b90e02e73703107f9d2d8"
 libc = "musl"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "8d6b8114d5a34cee07fa683e91e90856cc6d4a568e0db8c696d9542c23afa0b3"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "312db65c567c0d7e39c76e8539af81f248568cb18c850674cce59277a22041c0"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.armv6l-linux-musleabihf.tar.gz"
 [[ngspice]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "dc793b23b81cfb0040d18e36259c7cb09a6509a5"
+git-tree-sha1 = "8e5fbd2277cdc8151f818766828da56e73f1f7a1"
 libc = "glibc"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "ec88ff0ae1ef4d477f55b7a10ace011fea57383275cb977aab77557a83918492"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "e099cd839cacef009c9292692d16c62a2386348697242098490fb76632026793"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.armv7l-linux-gnueabihf.tar.gz"
 [[ngspice]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7ac9dbb85fb43a00d512d0d6f3f46b719b82acfa"
+git-tree-sha1 = "60832228e9332d82894a3351fabe925d79d42f8c"
 libc = "musl"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "7b0524aaafee4fb1ec52c8ec5debb6f0f5292fc07ee7e0c43d91cb8edc6fbd7d"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "608bb4c696f86eced8924a8c3ef54fde83a8878a08a8c50a957d068ae858f04d"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.armv7l-linux-musleabihf.tar.gz"
 [[ngspice]]
 arch = "i686"
-git-tree-sha1 = "45d17b4933fba022ff8587184b8c2ab6bb047e6c"
+git-tree-sha1 = "ce78413af040b490797d3a7b55013f1fdad43cc3"
 libc = "glibc"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "6930b74c3a7e0a35ee7f9125e0811c5985c175270cd92a16195dd8f08fdcc254"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.i686-linux-gnu.tar.gz"
+    sha256 = "946142bb254aac372257bca6faffc76407dccc8efde1923e56728172412b0cae"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.i686-linux-gnu.tar.gz"
 [[ngspice]]
 arch = "i686"
-git-tree-sha1 = "661fd7b32a2555fbfe712f5a152af16a62de0f36"
+git-tree-sha1 = "b29d78da8e8195fcfbbaf3af6de719e4cd754d0d"
 libc = "musl"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "48f99d83c11fc87df415b7c4b61ff88cb5451cf5a43ee7032b933e2c5362a8b8"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.i686-linux-musl.tar.gz"
+    sha256 = "5153a94b117b074b5106b7e5cf7c4ae585a1874da17f58e94603a629a1dc7ca6"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.i686-linux-musl.tar.gz"
 [[ngspice]]
 arch = "i686"
-git-tree-sha1 = "538911dbb400cde934cc050f230454ccc3d2b0a9"
+git-tree-sha1 = "6ad6475e38ffca429c39150b390b75333b5c53ec"
 os = "windows"
 
     [[ngspice.download]]
-    sha256 = "5f67194db8d15dd493ffca61e764e3ba742b503cad55c3d4284a664c7282178e"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.i686-w64-mingw32.tar.gz"
+    sha256 = "fb5a4a2429b0cced5e18ee507ac1eec3cecd9f8abf1306bd085f29799dbaf60b"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.i686-w64-mingw32.tar.gz"
 [[ngspice]]
 arch = "powerpc64le"
-git-tree-sha1 = "be75e0a63c79209a5b4b2ff63822be65fd7aead6"
+git-tree-sha1 = "7e7344effed57dd14ceee2d71a5b17bc6cdae9f6"
 libc = "glibc"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "e7a6eaf7cc19f3f92a06f17da16e28d5213e9bbc44a1bbe44eca609d6be3c73c"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "8519c6526a7ca78091162d635d71722cbcdb9841d1dbf4af0f47da88407f2bec"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.powerpc64le-linux-gnu.tar.gz"
 [[ngspice]]
 arch = "x86_64"
-git-tree-sha1 = "916cf46ea9e921dcd9882f90461f7c7ceaf12c3d"
+git-tree-sha1 = "e24e0821d5f0aaca2335ddae98d60a95812bda14"
 os = "macos"
 
     [[ngspice.download]]
-    sha256 = "137d7948ab43249188caffa311fd1de1cecb06eb64fcd1d061506fb100ef1c13"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "75f0c00eca6399dcf5b98a63ad8b82af1ceebc9b6ff2695d4f95bb7a547aacf0"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.x86_64-apple-darwin.tar.gz"
 [[ngspice]]
 arch = "x86_64"
-git-tree-sha1 = "544ea5033d101241df5d860f39ef0d130ca25ec5"
+git-tree-sha1 = "bcebfdd765ba12215d917b24d07fcb681f742945"
 libc = "glibc"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "f7a37ddff5f447ee0dc8b56764c5ca2c773ca6b2ea49d913abfe08abb55dc665"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "5ae38e31422a2150f6231e54f666619a3753bf5c6ffd5c54737a24c6a96e6054"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.x86_64-linux-gnu.tar.gz"
 [[ngspice]]
 arch = "x86_64"
-git-tree-sha1 = "1db6d09416f059de1f001ec14be00ecb7d5cdc90"
+git-tree-sha1 = "c8f4277c20482d7b53dc7b182d27533e957f1f9e"
 libc = "musl"
 os = "linux"
 
     [[ngspice.download]]
-    sha256 = "5819df5dc37d60ac7c1a063e899914b964cbd79cfa94a3e89e42e2bb9daa848b"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.x86_64-linux-musl.tar.gz"
+    sha256 = "29d6506067f06107f9ea55be49fd2ae93dae3cdae4b8e08605b157c0ee35b4a7"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.x86_64-linux-musl.tar.gz"
 [[ngspice]]
 arch = "x86_64"
-git-tree-sha1 = "8fd1bf9070e4966ba193f097fa4b49dd0c0ec00d"
+git-tree-sha1 = "6d6bb885722d1cafeea2fb4f1772db7f169dd804"
 os = "freebsd"
 
     [[ngspice.download]]
-    sha256 = "99cd254dd7c66bea2170707944646619a70d22fba51a53a25d8c292c258114fb"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "821db2e3dc168dc3cdf75c55f4d9fa44bfe3fe4f50e33ef8add353597bf760ab"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.x86_64-unknown-freebsd.tar.gz"
 [[ngspice]]
 arch = "x86_64"
-git-tree-sha1 = "64c568a85f2bf04638c30e8ae0863d95c8879df3"
+git-tree-sha1 = "957040140c16e137b8f8efc4b5e7e61f1a2ee6a2"
 os = "windows"
 
     [[ngspice.download]]
-    sha256 = "fa31f5201978c0e4f16a88de80026b755c500c376b51e217909694674aa96f29"
-    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v39.3.0+0/ngspice.v39.3.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "2291d9a6ef234af6a750fcd6b068c28a54c2c6e77544b0acde007bd419f4980f"
+    url = "https://github.com/JuliaBinaryWrappers/ngspice_jll.jl/releases/download/ngspice-v41.0.0+0/ngspice.v41.0.0.x86_64-w64-mingw32.tar.gz"
